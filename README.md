@@ -22,7 +22,7 @@ In the current app, the user takes pictures of food (e.g., using a camera app) a
 We will need a photo-taking/upload screen in the app to allow the user to take a picture of the dish while dining. The screen should fit into the “reservation - dining - review” work flow. (This is a mobile only feature.)
 The screen includes a link to the camera app, and once a photo is taken, it displays the upload page, optionally, with the ability to add comments, etc.
 We may attach GPS/location information to the uploaded photos.
-Optionally, we may include a placeholder screen with multiple photo locations to encourage users to upload more than one photos.
+Optionally, we may include a screen with multiple photo placeholders to encourage users to upload more than one photos.
 
 ## [2] Dish Timeline
 
